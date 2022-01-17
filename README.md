@@ -54,7 +54,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/ULTRA-OP/ULTRA-X
+git clone https://github.com/hrgaming0/ULTRA-X
 cd ULTRA
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
