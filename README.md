@@ -54,7 +54,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/ULTRA-OP/ULTRA-X
+git clone https://github.com/hrgaming0/ULTRA-X
 cd ULTRA
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -102,5 +102,5 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 ## Copyright (C) 2021 by Team Ultra for UltraX UserBot, < https://github.com/ULTRA-OP >.
 
 
-# ➥ ULTRA-X   »»  <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
-# ➥ ULTRA-OP  »»  <a href="https://github.com/ULTRA-OP" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
+# ➥ ULTRA-X   »»  <a href="https://github.com/hrgaming0/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
+# ➥ ULTRA-OP  »»  <a href="https://github.com/hrgaming0" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
